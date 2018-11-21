@@ -7,7 +7,7 @@
         <value>4</value>
         <value>4</value>
     </array>
-    <array name="cpu.speeds.cluster0">
+    <array name="cpu.core_speeds.cluster0">
         <value>633000</value>
         <value>902000</value>
         <value>1113000</value>
@@ -16,7 +16,7 @@
         <value>1747000</value>
         <value>1843000</value>
     </array>
-    <array name="cpu.active.cluster0">
+    <array name="cpu.core_power.cluster0">
         <value>12</value>
         <value>23</value>
         <value>30</value>
@@ -25,7 +25,7 @@
         <value>55</value>
         <value>65</value>
     </array>
-    <array name="cpu.speeds.cluster1">
+    <array name="cpu.core_speeds.cluster1">
         <value>1113600</value>
         <value>1401600</value>
         <value>1747200</value>
@@ -33,7 +33,7 @@
         <value>2150000</value>
         <value>2208000</value>
     </array>
-    <array name="cpu.active.cluster1">
+    <array name="cpu.core_power.cluster1">
         <value>75</value>
         <value>110</value>
         <value>155</value>
@@ -50,8 +50,8 @@
     <item name="wifi.on">2</item>
     <item name="wifi.active">175</item>
     <item name="wifi.scan">180</item>
-    <item name="dsp.audio">45</item>
-    <item name="dsp.video">60</item>
+    <item name="audio">45</item>
+    <item name="video">60</item>
     <item name="camera.flashlight">200</item>
     <item name="camera.avg">500</item>
     <item name="gps.on">100</item>
